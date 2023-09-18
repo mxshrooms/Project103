@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(240, 173, 110);
+}
+#heading {
+    color:whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bolder;
+    font-size:40px;
+    margin-top:28px;
+    text-align:center;
+}
+p {
+    font-size: 22px;
+    color:whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(255, 160, 71);
+    width:150px;
+}
+#label1 {
+    color:whitesmoke;
+    font-family: calibri;
+    font-size:18px;
+}
+#result {
+    width:355px;
+}
+a {
+    font-size:18px;
+}
